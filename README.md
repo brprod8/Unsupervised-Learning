@@ -28,9 +28,66 @@
 # STEP 2
   ## Find the Best Value for k Using the Original Data
 
+  ![](pics/elbow.png)
+
+ > 👨🏿‍⚖️[Click here](https://medium.com/@matthew.dicicco38/elbow-method-explained-e8736cfcc5d1) to learn more about Elbow Method
+
+# STEP 3
+ ## Cluster Cryptocurrencies with K-means Using the Original Data
+
+ ![](pics/model.png)
+
+ ![](pics/scatter.png)
+
+# STEP 4
+ ## Optimize Clusters with Principal Component Analysis
+
+ ![](pics/pca.png)
+
+ > 👨🏿‍⚖️ Aprox 90% is the total explained variance of the three principal components
+   
+   👨🏿‍⚖️ [Click here](https://www.keboola.com/blog/pca-machine-learning) to learn more about PCA
+     
+# STEP 5
+ ## Visualize and Compare Results
+
+ ![](pics/compare.png)
+
+# REQUIREMENTS
+  >👨🏿‍⚖️ Click name to downlaod
+
+[Python](https://www.python.org/ftp/python/3.10.5/python-3.10.5-macos11.pkg)
+
+[Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+
+[Hvplot](https://pypi.org/project/hvplot/)
+
+[Scikit-Learn](https://scikit-learn.org/stable/install.html)
+
+# INSTALLATION
+
+>👨🏿‍⚖️ INSTALL ZIP FILE OR CLONE REPO
+
+[click here](https://github.com/brprod8/Unsupervised-Learning/archive/refs/heads/main.zip) for zip file
+
+[click here](https://github.com/brprod8/Unsupervised-Learning) to clone repo
+
+
+# LICENSE
+**Open to Experiment**
+
+BY:ROBERT SMITH
+
+CREDIT: UC BERKELEY
+
+EMAIL - Brprod8@gmail.com for Colloboration 
 
 
 
 
 
-<!-- [click](https://www.pics-itech.com/) -->
+
+
+
+
+
